@@ -7,4 +7,5 @@ pluginManagement {
 }
 
 include ':FtcRobotController'
-include ':TeamCode'
+include ':Lesson1'
+include ':Lesson2'
